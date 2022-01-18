@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'MeON'
+project = 'Pro-M'
 copyright = '2021, ISMT'
 author = 'ISMT'
 

@@ -6,7 +6,4 @@
 .. toctree::
    :maxdepth: 1  
 
-   uvod/index.rst
    prirucnik/index.rst
-   admin/index.rst
-   uputstva/index.rst

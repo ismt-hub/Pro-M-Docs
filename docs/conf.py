@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Pro-M'
-copyright = '2021, ISMT'
-author = 'ISMT'
+copyright = '2022, ASCii'
+author = 'ASCii'
 
 
 # -- General configuration ---------------------------------------------------

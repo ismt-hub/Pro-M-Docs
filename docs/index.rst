@@ -6,6 +6,8 @@
 .. toctree::
    :maxdepth: 1  
 
+   prirucnik/uvod
+   prirucnik/koncept
    prirucnik/kontrolna tabla
    prirucnik/registar
    prirucnik/kalendar
